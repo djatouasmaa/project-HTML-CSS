@@ -631,7 +631,8 @@
 }
 /*******************************************************/
 .testimonial {
-  background-image: url(/images/vecteezy_abstract-blue-rectangles-background-vector-illustration_6852808.jpg);
+ /* background-image: url(/images/vecteezy_abstract-blue-rectangles-background-vector-illustration_6852808.jpg);*/
+  background-color: #2a6df5;
   color: #fff;
   margin-top: 6.4rem;
 }
