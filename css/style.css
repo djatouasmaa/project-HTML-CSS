@@ -161,7 +161,7 @@
   margin-bottom: 0.4rem;
 }
 
-/******************Section **************************/
+/******************Section how  **************************/
 .section-how {
   margin-bottom: 8rem;
 }
@@ -398,6 +398,57 @@
   color: var(--grey-color);
 }
 
+.icon-video {
+  width: 8rem;
+  height: 8rem;
+  padding: 3.2rem;
+  border-radius: 50%;
+  color: var(--main-color);
+  background-color: #fff;
+  border: 2px solid var(--section-color);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.icon-dln {
+  width: 3rem;
+  height: 3rem;
+  padding: 1.4rem;
+  border-radius: 50%;
+  color: green;
+  background-color: #fff;
+  border: 2px solid var(--section-color);
+  position: absolute;
+  top: 50%;
+  left: 58%;
+  transform: translate(-50%, -58%);
+  /*  margin-left: 0.2rem; */
+}
+
+.icon-dln ion-icon {
+  width: 1.8rem;
+  height: 1.8rem;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.icon-video ion-icon {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.image-video {
+  position: relative;
+  /*  overflow: hidden; */
+}
 .video-description {
   margin-left: 6.4rem;
 }
@@ -568,7 +619,7 @@
 .pricing-plan-last {
   width: 92%;
   border-radius: 8px;
-  border: 1px solid var(--section-color);
+  border: 2px solid #eff1f4;
   margin-bottom: 3.2rem;
 }
 
@@ -631,7 +682,7 @@
 }
 /*******************************************************/
 .testimonial {
- /* background-image: url(/images/vecteezy_abstract-blue-rectangles-background-vector-illustration_6852808.jpg);*/
+  /*   background-image: url(/images/5559852.jpg); */
   background-color: #2a6df5;
   color: #fff;
   margin-top: 6.4rem;
