@@ -216,6 +216,11 @@
   .pricing-plan-second::after {
     right: -8%;
   }
+  
+  .pricing-plan-second,
+  .pricing-plan-first {
+    padding-bottom: 9.6rem;
+  }
 
   /** section pricing  testimonial**/
   .testimonial-content {
